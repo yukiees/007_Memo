@@ -15,6 +15,7 @@
 		9C389EAD25629601007A01A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C389EAB25629601007A01A2 /* LaunchScreen.storyboard */; };
 		9C389EB825629602007A01A2 /* _07_MemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C389EB725629602007A01A2 /* _07_MemoTests.swift */; };
 		9C389EC325629602007A01A2 /* _07_MemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C389EC225629602007A01A2 /* _07_MemoUITests.swift */; };
+		9C389ED72562AAC5007A01A2 /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C389ED62562AAC5007A01A2 /* MemoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9C389EBE25629602007A01A2 /* 007_MemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 007_MemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C389EC225629602007A01A2 /* _07_MemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _07_MemoUITests.swift; sourceTree = "<group>"; };
 		9C389EC425629602007A01A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C389ED62562AAC5007A01A2 /* MemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9C389EA2256295FC007A01A2 /* SceneDelegate.swift */,
 				9C389EA4256295FC007A01A2 /* ViewController.swift */,
 				9C389EA6256295FC007A01A2 /* Main.storyboard */,
+				9C389ED62562AAC5007A01A2 /* MemoViewController.swift */,
 				9C389EA925629601007A01A2 /* Assets.xcassets */,
 				9C389EAB25629601007A01A2 /* LaunchScreen.storyboard */,
 				9C389EAE25629601007A01A2 /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C389ED72562AAC5007A01A2 /* MemoViewController.swift in Sources */,
 				9C389EA5256295FC007A01A2 /* ViewController.swift in Sources */,
 				9C389EA1256295FC007A01A2 /* AppDelegate.swift in Sources */,
 				9C389EA3256295FC007A01A2 /* SceneDelegate.swift in Sources */,
